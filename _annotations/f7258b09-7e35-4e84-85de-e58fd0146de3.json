@@ -1,0 +1,37 @@
+---
+canvas: "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/canvas/myrt-1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lazybones",
+            "purpose": "commenting",
+            "creator": {
+                "id": "moodsk78",
+                "name": "moodsk78"
+            },
+            "created": "2023-11-14T11:44:06.708Z",
+            "modified": "2023-11-14T11:44:11.125Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/canvas/myrt-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1722.3527221679688\" cy=\"1794.3526000976562\" r=\"422.4738855186039\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f7258b09-7e35-4e84-85de-e58fd0146de3.json",
+    "motivation": "commenting"
+}

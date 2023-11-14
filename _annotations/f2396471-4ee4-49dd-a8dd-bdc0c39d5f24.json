@@ -1,0 +1,25 @@
+---
+canvas: "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/canvas/myrt-1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/canvas/myrt-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"1773.1762084960938\" cy=\"1918.5879516601562\" r=\"25.254384297701677\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f2396471-4ee4-49dd-a8dd-bdc0c39d5f24.json",
+    "motivation": "commenting"
+}

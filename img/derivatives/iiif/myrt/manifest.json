@@ -1,0 +1,86 @@
+---
+added: 2023-11-14 11&#58;39&#58;31.564223
+thumbnail: https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/IMG5970/full/126,/0/default.jpg
+title: Myrt
+user: moodsk78
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Myrt"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "rights"
+        ]
+      },
+      "value": {
+        "en": [
+          "Mine"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "Copycat"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "viewingDirection": "left-to-right",
+  "items": [
+    {
+      "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/canvas/myrt-1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "IMG_5970"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/IMG5970/full/126,/0/default.jpg",
+          "type": "thumbnail"
+        }
+      ],
+      "height": 3024,
+      "width": 4032,
+      "items": [
+        {
+          "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/IMG5970/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3024,
+                "width": 4032,
+                "service": [
+                  {
+                    "id": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/IMG5970",
+                    "type": "ImageService2",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://moodsk78.github.io/annonatate/img/derivatives/iiif/myrt/canvas/myrt-1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
